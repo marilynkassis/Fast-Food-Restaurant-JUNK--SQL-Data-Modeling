@@ -5,7 +5,7 @@ This project involves designing and implementing a data model for a fast-food re
 ## JUNK: Relational Database for a Fast-Food Restaurant
 
 ### 1. Overview
-Welcome to **JUNK**, a comprehensive database solution designed for a fast-food restaurant chain with five branches located in Madrid. This project aims to model the restaurant’s operations efficiently while enabling data-driven decision-making. By adhering to **Third Normal Form (3NF)**, the database ensures data integrity, eliminates redundancy, and optimizes access to key insights.
+Welcome to the JUNK project, a comprehensive database solution designed for a fast-food restaurant chain with five branches located in Madrid. This project aims to model the restaurant’s operations efficiently while enabling data-driven decision-making. By adhering to **Third Normal Form (3NF)**, the database ensures data integrity, eliminates redundancy, and optimizes access to key insights.
 
 ---
 
